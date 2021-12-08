@@ -1,5 +1,5 @@
-export interface team{
-    id      :number,
-    name    :string,
-    type    :string
+export interface Team{
+    id:number,
+    name:string,
+    type:string
 }
